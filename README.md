@@ -34,7 +34,14 @@ MPI_Assignments/
 ├── README.md
 └── git_log.txt
 
+**Technology:** OpenMPI 4.1.6  
+**Language:** C  
+**Platform:** Ubuntu/WSL
+
+## Acknowledgements
+C-DAC Bangalore and C-DAC CINE instructors and OpenMPI Community.
+
 ## Author
 Rahul Karmakar
-
+**⭐ If you found this helpful, please star this repository!**
 
