@@ -43,5 +43,5 @@ C-DAC Bangalore and C-DAC CINE instructors and OpenMPI Community.
 
 ## Author
 Rahul Karmakar
-###⭐ If you found this helpful, please star this repository!
+### ⭐ If you found this helpful, please star this repository!
 
