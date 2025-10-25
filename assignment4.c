@@ -1,3 +1,5 @@
+//4. Write a MPI program to calculate the total number of prime between 1 to 100 numbers  between 1 and 1,00,00,000.
+
 #include <mpi.h>
 #include <stdio.h>
 #include <math.h>
