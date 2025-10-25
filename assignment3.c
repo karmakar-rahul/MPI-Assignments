@@ -1,3 +1,5 @@
+//3. To write MPI program to find minimum of 40 numbers using 4 processes
+
 #include <mpi.h>
 #include <stdio.h>
 #include <stdlib.h>
