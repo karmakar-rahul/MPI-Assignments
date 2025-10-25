@@ -1,3 +1,5 @@
+// 2. Write MPI program to send the string "Awaiting 2025" from process with rank 0 to all other processes.
+
 #include <mpi.h>
 #include <stdio.h>
 #include <string.h>
