@@ -1,3 +1,5 @@
+//1. To write a MPI program to print hostname an send message from process with rank 0 to all other.
+
 #include <mpi.h>
 #include <stdio.h>
 #include <string.h>
